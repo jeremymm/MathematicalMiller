@@ -151,7 +151,7 @@
     <ClCompile Include="..\Source\Random.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Include\HabuMath.hpp" />
+    <ClInclude Include="..\Include\MathematicalMiller.hpp" />
     <ClInclude Include="..\Include\Matrix.hpp" />
     <ClInclude Include="..\Include\Point.hpp" />
     <ClInclude Include="..\Include\Vector.hpp" />
