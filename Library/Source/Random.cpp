@@ -29,8 +29,6 @@
 namespace MST
 {
   //-------------------------------------------------------------------------//
-  // To see why I do this you can visit this site http://www.bluehabu.com/?p=8
-  // TODO rational types do not work.
   //template class Random<unsigned char>;
   //template class Random<char>;
   //template class Random<unsigned short>;

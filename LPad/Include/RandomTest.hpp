@@ -2,7 +2,7 @@
 #ifndef RANDOM_TEST_HPP
 #define RANDOM_TEST_HPP
 
-#include "HabuMath.hpp"
+#include "MathematicalMiller.hpp"
 
 using namespace MST;
 

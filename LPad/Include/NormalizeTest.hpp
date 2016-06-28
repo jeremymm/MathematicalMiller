@@ -1,7 +1,7 @@
 #ifndef NORMALIZE_TEST_HPP
 #define NORMALIZE_TEST_HPP
 
-#include "HabuMath.hpp"
+#include "MathematicalMiller.hpp"
 #include <d3dx9math.h> // for testing
 
 using namespace MST;

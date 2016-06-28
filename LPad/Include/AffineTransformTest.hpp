@@ -1,7 +1,7 @@
 
 #ifndef AFFINE_TRANFORM_TEST_HPP
 #define AFFINE_TRANFORM_TEST_HPP
-#include "HabuMath.hpp"
+#include "MathematicalMiller.hpp"
 #include <d3dx9math.h> // for testing
 
 using namespace MST;
