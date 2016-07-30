@@ -1,3 +1,0 @@
-[submodule "3rdParty"]
-	path = 3rdParty/DirectX/9.0c
-	url = ../3rdParty.git
